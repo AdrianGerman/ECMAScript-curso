@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript-curso",
+  "version": "1.0.0",
+  "description": "ECMAScript app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianGerman/ECMAScript-curso.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Adrian German <adrian.german4485@alumnos.udg.mx>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianGerman/ECMAScript-curso/issues"
+  },
+  "homepage": "https://github.com/AdrianGerman/ECMAScript-curso#readme"
+}
